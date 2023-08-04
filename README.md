@@ -15,3 +15,5 @@
 </div>
 
 ###
+
+![Metrics](/github-metrics.svg)
