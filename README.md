@@ -1,5 +1,5 @@
 # My personal webpage
-<p align="left">wdai AT gmu DOT edu</p>
+<p align="left">wdai0 DOT github DOT io </p>
 
 # 📊 GitHub Stats:
 ###
