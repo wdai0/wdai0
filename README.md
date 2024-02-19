@@ -2,7 +2,7 @@
 
 <p align="left">wdai0 DOT github DOT io </p>
 
-## 📊 GitHub Stats:
+## My GitHub Stats :trollface:
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/wdai0/count.svg?"  />
